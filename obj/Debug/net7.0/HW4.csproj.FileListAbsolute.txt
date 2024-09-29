@@ -1,0 +1,15 @@
+/home/ubuntu/Desktop/HW4/bin/Debug/net7.0/HW4
+/home/ubuntu/Desktop/HW4/bin/Debug/net7.0/HW4.deps.json
+/home/ubuntu/Desktop/HW4/bin/Debug/net7.0/HW4.runtimeconfig.json
+/home/ubuntu/Desktop/HW4/bin/Debug/net7.0/HW4.dll
+/home/ubuntu/Desktop/HW4/bin/Debug/net7.0/HW4.pdb
+/home/ubuntu/Desktop/HW4/obj/Debug/net7.0/HW4.csproj.AssemblyReference.cache
+/home/ubuntu/Desktop/HW4/obj/Debug/net7.0/HW4.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Desktop/HW4/obj/Debug/net7.0/HW4.AssemblyInfoInputs.cache
+/home/ubuntu/Desktop/HW4/obj/Debug/net7.0/HW4.AssemblyInfo.cs
+/home/ubuntu/Desktop/HW4/obj/Debug/net7.0/HW4.csproj.CoreCompileInputs.cache
+/home/ubuntu/Desktop/HW4/obj/Debug/net7.0/HW4.dll
+/home/ubuntu/Desktop/HW4/obj/Debug/net7.0/refint/HW4.dll
+/home/ubuntu/Desktop/HW4/obj/Debug/net7.0/HW4.pdb
+/home/ubuntu/Desktop/HW4/obj/Debug/net7.0/HW4.genruntimeconfig.cache
+/home/ubuntu/Desktop/HW4/obj/Debug/net7.0/ref/HW4.dll
